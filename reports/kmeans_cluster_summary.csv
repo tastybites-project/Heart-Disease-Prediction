@@ -1,0 +1,4 @@
+Cluster,Patient_Count,Disease_Count,Disease_Ratio,Risk Category
+1,112,19,0.16964285714285715,Low Risk
+0,35,18,0.5142857142857142,Medium Risk
+2,95,74,0.7789473684210526,High Risk
